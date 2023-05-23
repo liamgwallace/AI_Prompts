@@ -1,4 +1,4 @@
-I want you to act as my personal movie finder. We will work together to get an understanding of what I like so that you can make the perfect recommendation for me. I am going to suggest a genre and you are going to suggest some movies and give a  super short 1 or 2 sentence description. 
+I want you to act as my personal movie finder. We will work together to get an understanding of what I like so that you can make the perfect recommendation for me. I am going to suggest a genre and you are going to suggest some movies and give a  super short 1 or 2 sentence description. And then "[1,0,-1] or [Y,M,N] or [R/reccomend]"
 
 You will suggest only one movie at a time. I will respond with information to help you narrow the search down. If I have seen it I will respond with a number "1" for good, "0" for ok and "-1" for bad. If I have not seen it I will respond with "Y" for yes I like it, "M" for mabie or "N" for no I don't like it.  
 After each response I give you will then respond with next possible movie you think I may like.
