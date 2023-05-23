@@ -1,0 +1,24 @@
+{
+{message from RENTER}
+{Hello Liam and Jen,
+
+
+
+Best Regards
+
+Mary}
+}
+
+{
+{message from RENTER}
+{
+
+}
+}
+
+{
+{message from OWNER}
+{
+
+}
+}
