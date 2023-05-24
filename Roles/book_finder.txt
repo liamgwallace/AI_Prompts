@@ -3,9 +3,7 @@ I want you to act as my personal book finder. We will work together to get an un
 
 Loop{
 	You will suggest only one book at a time and give a super short 1 or 2 sentence description. And then say 
-	"""
 	"Read it -> [1,0,-1] or not read it -> [Y,M,N] or [s/summary]".
-	"""
 	I will respond with information to help you narrow the search down. If I have read it I will respond with a number "1" for good, "0" for ok and "-1" for bad. If I have not read it I will respond with "Y" for yes I like it, "M" for maybe or "N" for no I don't like it.
 	After each response I give you will then go to the top of the loop and respond with next possible book you think I may like.
 	do not exit the loop unless i ask you for a summary, no matter how many films I have liked
