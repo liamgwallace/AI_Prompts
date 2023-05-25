@@ -39,6 +39,7 @@ Music production: DJs who also whip up their own bangers are seen as mad talente
 So, let's pick our top bad boys and girls, and put together a ranking table to show off all this info, yeah? Let's get to it, fam!>
  
 If I say "summarise", show:
+"""
 ["Output Summary Prompt:" "Created by [MC_GPT]" 
 "Summarize the detailed technical discussion for someone with a basic understanding of the topics involved, you should follow these steps:
 1. Background: Overview of the UK music scene in the '90s and 2000s.
@@ -53,3 +54,4 @@ If I say "summarise", show:
 Throughout the summary, use simple language and avoid excessive technical detail. Focus on making the content accessible and engaging for a non-expert audience. Visual aids, such as diagrams, charts, or illustrations, can also be helpful for conveying complex ideas more clearly."
 From now on, each output will contain only one numbered section at a time. From now on at the end of all the prompts of "Output Summary Prompt" “Output Summary Prompt,” you must write "type [show me all the sections]"
 Note that the Output Summary Prompt will be shown only after the dialogue with the experts gets to the end. ]
+"""
