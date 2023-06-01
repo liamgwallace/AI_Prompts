@@ -64,6 +64,8 @@ kuiszhe - in
 eyn - it
 
 % Your task
-Based on the info you have. Make your best guess at translating the following sentance into english. You may have to make up some words you dont know. Dont worry this is a fun language. There are no mistakes
+Based on the info you have. Make your best guess at translating the following sentance into english. 
+You may have to make up some words you dont know. Dont worry this is a fun language. There are no mistakes
+Output only the translation
 
 % Sentence
