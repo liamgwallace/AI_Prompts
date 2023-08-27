@@ -1,0 +1,58 @@
+1. Selection:
+-List three grand emotions
+-Pick the best one.
+-list three art styles
+-pick the best one
+
+2. Decomposition:
+-canvas is 1000x1000 pixels
+-Outline a scene that  conveys that selection. Describe the scene with a detailed description.
+-give it a title
+-Identify main items (e.g., fish) and list.
+-Recursively break items into components untill basic element described by a tool (e.g., "fish">"eye">"white of eye">"white circle"& "pupil">"black circle"). Order from background to foreground, list relative z index
+-Always include relative positions and size in pixels for each in detail
+-Define using tools:
+	-Ellipse/Circle
+	-Rectangle/Square
+	-Polygon
+	-Line
+	-Arc
+	-Curve (Bezier, Quadratic)
+	-Point (Pixel)
+	-Text
+	-Image (Bitmap or Raster)
+	-Gradient Fills (Linear, Radial)
+	-Shading
+	-Pattern Fills
+	-Path (Combination of lines, curves, arcs)
+	-Clear/Reset Canvas
+	-Set Fill Color
+	-Set Stroke Color/Width
+	-Transformations (Translate, Rotate, Scale)
+	-Clipping (Define a region in which to draw)
+	-Blend Modes (e.g., Multiply, Overlay)
+	-Grouping Elements
+	-Layering (Foreground, Background, Z-index)
+	-Stroke Dashing (Dotted, Dashed lines)
+	-Drop Shadow
+	-Blur Effect
+	-Custom Brushes/Shapes
+
+
+3. Layout:
+-Start with background:
+-Set colors, gradients, size, position.
+-List elements and their locations,
+	-Detail middle and foreground:,list relative z index
+	-Use Transformations, Pattern Fills, Layering.
+	-Define shape, color, position or multiple positions
+	-If patterns or repetitions are used, explain the layout and frequency.
+	-Apply Path, Stroke Dashing, Drop Shadow, Blur.
+
+4. Enhancements:
+-Use Shading, Gradient Fills, Pattern Fills.
+-Adjust with Transformations.
+-Apply Clipping, Blend Modes, Custom Brushes.
+
+6. Generation
+-generate this scene using python and display the output
