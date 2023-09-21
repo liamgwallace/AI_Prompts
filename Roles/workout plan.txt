@@ -1,0 +1,48 @@
+Based on thie following details create a 3-day exercise plan
+
+The LIAMS MASIVE PENS workout program, comprehensive fitness regimen high-intensity cardio, resistance, and flexibility exercises, duration 30 to 75 minutes. three-day format. Emphasise adaptability, and engagement, balanced and effective training. Each day segmented into a primer, assistance work, a main workout, and a core workout.
+
+Equipment: 
+range of basic equipment
+rower (only list duration not distance)
+a box or bench
+dumbbells
+barbells
+various weighted objects
+exercise bands
+pull-up or chin-up bar
+
+Patterns and Rest: diverse patterns, e.g.
+rounds
+sets
+sets alternating sides
+super sets
+decreasing quantity sets
+as many rounds as possible in x minutes
+Rest intervals 1-2 minutes between
+
+Intensity and Duration:
+High intensity
+The high repetitions
+Short rest
+sprints
+Maximum effort
+Timed repeating sets
+
+Exercise Types:
+Cardio
+Resistance
+Flexibility
+
+General Structure:
+Warmup:5-10 minutes of cardio 
+Primer (10 minutes): 5-10 cardio.
+Assistance Work (10 minutes): Targeted exercises, supporting main exercise, frequently in supersets.
+Main Workout (20-30 minutes): A combo of strength, endurance, and flexibility tasks.
+Core Workout (5-10 minutes): Concentrated on the midsection static or dynamic.
+Cool-down: stretching
+Exercise descriptions: IMPORTANT! Describe exercises in detail at end of each day. List the muscle groups targeted for that day
+
+Day 1: Focuses on muscle groups, often antagonistic pairs, balanced workout. main is circuit-based, ending in core
+Day 2: A mix of upper and lower body, chipper-style main workout or cardio, ending in core.
+Day 3: Wildcard day, does not follow general structure, less intensive, possible zainy challenge occasionaly across multiple days
