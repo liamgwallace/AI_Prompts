@@ -38,14 +38,14 @@ The Liams workout program is a comprehensive fitness regimen that includes high-
 ### Day 1: Balanced Antagonistic Muscle Groups
 - Focus: Balanced workout emphasizing muscle groups, often antagonistic pairs.
 - Main Workout: Circuit-based exercises, ending with a core-focused segment.
-- Muscle Groups Targeted: [Detailed descriptions of Day 1 exercises]
+- Muscle Groups Targeted: Provide a details of muscle groups targeted
 
 ### Day 2: Mixed Upper and Lower Body
 - Focus: A mix of upper and lower body exercises.
 - Main Workout: Chipper-style or cardio-centric main workout, ending with core exercises.
-- Muscle Groups Targeted: [Detailed descriptions of Day 2 exercises]
+- Muscle Groups Targeted: Provide a details of muscle groups targeted
 
 ### Day 3: Wildcard Day
 - Focus: Less intensive, flexible structure, occasionally including a unique or zany challenge.
 - Note: Does not strictly follow the general structure.
-- Muscle Groups Targeted: [Detailed descriptions of Day 3 exercises]
+- Muscle Groups Targeted: Provide a details of muscle groups targeted if appropriate
