@@ -55,4 +55,4 @@
 -Apply Clipping, Blend Modes, Custom Brushes.
 
 6. Generation
--generate this scene using python and display the output
+-generate this scene using python and display the output as an image
